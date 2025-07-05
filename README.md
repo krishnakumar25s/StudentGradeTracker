@@ -4,10 +4,6 @@
 ![Swing](https://img.shields.io/badge/GUI-Swing-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A Java Swing application for managing student grades with statistical analysis and visual reporting.
-
-![Screenshot](screenshot.png) *(Add screenshot later)*
-
 ## Features
 
 - **Student Management**
